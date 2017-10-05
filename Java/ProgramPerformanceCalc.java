@@ -1,4 +1,3 @@
-package performancecalc;
 /**
  * This ProgramPerformanceCalc.java class is created for the calculating the performance of the program which you have done.
  * 
